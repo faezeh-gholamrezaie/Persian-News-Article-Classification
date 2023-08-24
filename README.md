@@ -32,3 +32,15 @@ Description of the Tasnim Dataset :
 Aggregated dataset used :
 
 ![datasets](dataset-image.png)
+
+---
+Deep Learning Models
+---
+
+Two Deeo Learning Pretrain model have  been experimented:
+
+|  category    | Precision  | Accuracy   |    
+|--------------|------------|------------|
+| ParsBERT: Transformer-based Model for Persian Language Understanding     | 0.85       |0.83     |
+| Language-agnostic BERT Sentence Embedding (LaBSE)       | 0.85       |0.84       |
+
