@@ -6,3 +6,5 @@ ITRC, IRAN, Tehran
 ---
 Corpus
 ---
+
+##This project involves the collection of two datasets: one from Fars News and the other from Tasnim.
