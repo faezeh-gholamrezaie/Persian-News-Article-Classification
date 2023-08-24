@@ -1,6 +1,6 @@
 # Persian News Article Classification
 
-![Persian News Classification](NNews-Classification.png)
+![Persian News Classification](News-Classification.png)
 
 Based on the article
 
