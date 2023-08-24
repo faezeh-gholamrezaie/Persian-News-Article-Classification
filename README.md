@@ -20,3 +20,11 @@ Description of the Fars News Dataset :
 | social       | 5991       |
 
 Description of the Tasnim Dataset :
+
+|  category    |   Number   |     
+|--------------|------------|
+| culture      | 5750       |
+| sports       | 5347       |
+| politics     | 5483       |
+| economy      | 6095       |
+| social       | 5161       |
