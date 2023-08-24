@@ -37,7 +37,7 @@ Aggregated dataset used :
 Deep Learning Models
 ---
 
-Two Deeo Learning Pretrain model have  been experimented:
+Two Deep Learning Pretrain model have  been experimented:
 
 |  category    | Precision  | Accuracy   |    
 |--------------|------------|------------|
