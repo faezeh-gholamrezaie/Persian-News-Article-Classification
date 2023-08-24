@@ -52,3 +52,9 @@ Confusion matrix using the best model ParsBERT:
 ![Confusion matrix](confusion-matrix.png)
 
 
+|--------------|------------|
+| culture      | 0       |
+| economy      | 1       |
+| politics     | 2       |
+| social       | 3       |
+| sports       | 4       |
