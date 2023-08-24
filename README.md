@@ -44,3 +44,9 @@ Two Deeo Learning Pretrain model have  been experimented:
 | ParsBERT: Transformer-based Model for Persian Language Understanding     | 0.85       |0.83     |
 | Language-agnostic BERT Sentence Embedding (LaBSE)       | 0.85       |0.84       |
 
+---
+Evaluation (Confusion matrix)
+---
+Confusion matrix using the best model ParsBERT:
+
+![Confusion matrix](Confusion matrix.png)
