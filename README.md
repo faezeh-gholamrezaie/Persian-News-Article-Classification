@@ -1,7 +1,6 @@
 # Persian News Article Classification
 
 ![Persian News Classification](News-Classification.png)
-
 Based on the article
 
 ITRC, IRAN, Tehran
