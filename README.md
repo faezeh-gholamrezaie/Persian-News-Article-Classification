@@ -51,7 +51,7 @@ Confusion matrix using the best model ParsBERT:
 
 ![Confusion matrix](confusion-matrix.png)
 
-
+|  category    | label  |
 |--------------|------------|
 | culture      | 0       |
 | economy      | 1       |
