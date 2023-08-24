@@ -63,13 +63,13 @@ Confusion matrix using the best model ParsBERT:
 Team mate
 ---
 
-Dr Marjan Godarzi
+Marjan Godarzi
 
-Dr Elham Ghasemi
+Elham Ghasemi
 
-Dr Gholshid Ranjbaran
+Gholshid Ranjbaran
 
-[Mr Alireza Parvaresh](https://www.linkedin.com/in/parvvaresh/)
+[Alireza Parvaresh](https://www.linkedin.com/in/parvvaresh/)
 
 [Faezeh Gholamrezaie](https://github.com/faezeh-gholamrezaie)
     
