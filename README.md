@@ -31,4 +31,4 @@ Description of the Tasnim Dataset :
 
 Aggregated dataset used :
 
-![datasets](https://github.com/faezeh-gholamrezaie/Persian-News-Article-Classification/Dataset.png)
+![datasets](https://github.com/faezeh-gholamrezaie/Persian-News-Article-Classification/commit/9e1a90a8682d512f160e2cb20ea52f0ef5b43a6b)
