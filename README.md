@@ -58,3 +58,12 @@ Confusion matrix using the best model ParsBERT:
 | politics     | 2       |
 | social       | 3       |
 | sports       | 4       |
+
+---
+Team mate
+---
+Dr Marjan Godarzi
+Dr Elham Ghasemi
+Dr Gholshid Ranjbaran
+Mr Alireza Parvaresh
+    
