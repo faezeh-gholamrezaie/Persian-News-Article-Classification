@@ -28,3 +28,5 @@ Description of the Tasnim Dataset :
 | politics     | 5483       |
 | economy      | 6095       |
 | social       | 5161       |
+
+Aggregated dataset used :
