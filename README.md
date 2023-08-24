@@ -31,4 +31,4 @@ Description of the Tasnim Dataset :
 
 Aggregated dataset used :
 
-![datasets](Dataset.png)
+![datasets](dataset-image.png)
